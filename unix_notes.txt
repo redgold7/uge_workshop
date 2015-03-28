@@ -1,0 +1,78 @@
+clear
+cd
+man less
+history | less
+history
+subl .
+ls .
+ls Downloads/
+ls ~
+cd ../../
+pwd
+ls
+cd Logs/
+cd ../
+ls -l
+cd Input\ Methods/
+cd Library/
+cd Applications/
+cd Movies/
+cd Desktop/
+cd 'Library/Application\ Support'
+cd ~
+man ls
+ls -ltr
+ls -lr
+ls -tr
+ls -lt
+ls -rt
+ls -r
+ls -t
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'michael.corson1@gmail.com'
+git config --global user.name 'MICHAEL CORSON'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+uname
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+which brew
+cd ~/desktop.pages
+file desktop.pages
+file desktop.pdf
+cd ./Documents
+./Documents
+ls /Users/Michael/Documents
+ls Documents
+file moduli
+file fax
+file install.log
+file documents
+cd /var/log
+cd /etc
+cd /bin
+cd /usr/bin
+cd ~/usr/bin
+ls -1
+cd ././
+cd /var/log/
+cd /et
+cd ~/Documents
+cd Documents
+echo $SHELL
