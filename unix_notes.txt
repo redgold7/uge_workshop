@@ -1,3 +1,12 @@
+# Hidden folder where the staging area and commits live
+.git/
+
+# a cool fish shortcut to list files
+ll
+
+# a simple way to list files in long format
+ls -l
+
 clear
 cd
 man less
